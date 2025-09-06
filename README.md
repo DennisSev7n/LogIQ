@@ -1,5 +1,3 @@
-# LogIQ🧠
-
 LogIQ🧠 is a **Streamlit-powered tool** designed for **cybersecurity analysts** to quickly analyze and query raw log files (CSV/TSV/TXT/LOG).  
 It combines **rule-based detection** with **AI-powered analysis** (via Groq LLMs) to deliver **fast, schema-flexible, privacy-aware log insights**.
 
@@ -118,13 +116,12 @@ Upload your log file (`.csv`, `.tsv`, `.txt`, `.log`) and start querying.
 
 ## 📊 Example Outputs
 
-(Add charts or example results here)
 
 - **Top Users Query:**  
-  ![Top Users Chart](images/top_users.png)
+  <img src ="top user 1.png" >
 
 - **Failed Logins Over Time:**  
-  ![Failed Logins Chart](images/failed_logins.png)
+ <img src ="top failed login.png" >
 
 ---
 
