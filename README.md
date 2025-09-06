@@ -49,19 +49,23 @@ It combines **rule-based detection** with **AI-powered analysis** (via Groq LLMs
 
 ## 🖼️ Screenshots / Demo
 
-(Add your screenshots or GIF demos here)
 
 - **Home Page:**  
-  ![Home Page Screenshot](images/homepage.png)
+  <img src ="logiq1.png" >
 
 - **Schema Detection:**  
-  ![Schema Detection Screenshot](images/schema_detection.png)
+   <img src ="logiq2.png" >
 
 - **Query Results with Visualization:**  
-  ![Query Results Screenshot](images/query_results.png)
+  <img src ="logiq3.png" >
+
 
 - **AI-Powered Insights:**  
-  ![AI Insights Screenshot](images/ai_insights.png)
+  <img src ="logiq6.png" >
+   <img src ="logiq7.png" >
+    <img src ="logiq8.png" >
+
+
 
 ---
 
@@ -78,7 +82,7 @@ It combines **rule-based detection** with **AI-powered analysis** (via Groq LLMs
 ## ⚡ Installation
 
 ```bash
-git clone https://github.com/DennisSen7n/LogIQ.git
+git clone https://github.com/DennisSev7n/LogIQ.git
 cd LogIQ
 
 # Create and activate a virtual environment
